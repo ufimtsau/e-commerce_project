@@ -59,8 +59,8 @@
 ### :book: Мои проекты:
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[Поиск мошенников через аналитику данных](https://github.com/DimDolino/Find_the_Thief)|Предобработка данных, создание скрипта поиска "связанных" данных, вывод клиентов, выполнивших ключевое действие.|**Pandas** **Numpy**|
-|[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
-|[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
-|[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
+|[](https://github.com/)||**Pandas** **Numpy**|
+|[](https://github.com/)||**Pandas** **Numpy** **Scipy** **Seaborn**|
+|[](https://github.com/)||**Pandas** **Numpy**|
+|[](https://github.com/)||**Pandas** **Numpy**|
+|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/)| |**Tableau**|
